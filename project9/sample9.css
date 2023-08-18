@@ -1,0 +1,29 @@
+.healthy-food-section{
+    background-color: whitesmoke;
+
+}
+.healthy-food-section-card{
+    text-align: center;
+    padding: 25px;
+}
+.healthy-food-section-image{
+    width: 75%;
+    border-radius: 15px;
+}
+.healthy-food-section-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+.healthy-food-section-details{
+    font-weight: 500;
+}
+.healthy-food-section-button{
+    background-color: rgb(138, 138, 12);
+    color: white;
+    border-width: 0px;
+    width: 120px;
+    font-size: 15px;
+    height: 38px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}

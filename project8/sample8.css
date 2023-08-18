@@ -1,0 +1,35 @@
+.em-section{
+    background-color: rgb(127, 207, 180);
+    background-size: cover;
+    height: 100vh;
+}
+.em-section-head{
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(38, 72, 38);
+    padding-top: 15px;
+}
+.em-section-card-image{
+    width: 100%;
+    padding-bottom: 25px;
+    border-radius: 45px;
+}
+.em-section-card-head{
+    font-size: 20px;
+    font-weight: 700;
+}
+.em-section-card-para{
+    color: rgb(142, 142, 36);
+}
+.em-section-card{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    height: 320px;
+    width: 305px;
+}

@@ -1,0 +1,46 @@
+.trending-container{
+    background-color: whitesmoke;
+}
+.card-image{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.details-title{
+    font-size: 18px;
+    font-weight: 500;
+    color: grey;
+}
+.details-container{
+    padding: 15px;
+}
+.details-description{
+    font-size: 25px;
+    height: 150px;
+}
+.read-more-link{
+    color: blue;
+    font-weight: 700;
+}
+.trending-container-title{
+    padding-left: 15px;
+    padding-top: 30px;
+}
+.trending-card{
+    margin-left:5px;
+    margin-right:5px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.view-all-button{
+    color: white;
+    background-color: rgb(35, 35, 103);
+    float: right;
+    border-width: 0px;
+    width: 120px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    height: 35px;
+    border-radius: 5px;
+}

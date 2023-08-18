@@ -1,0 +1,14 @@
+.responsive-head{
+    text-align: center;
+}
+.box{
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
+}
+.box-para{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,20 @@
+.Kit-container{
+    background-color: whitesmoke;
+    height: 100vh;
+}
+.kit-card{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.kit-card-title{
+    font-size: 21px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.Kit-container-title{
+    padding-top: 45px;
+    padding-left: 15px;
+}
+.kit-card-image{
+    padding-top: 35px;
+}

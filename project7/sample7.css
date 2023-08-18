@@ -1,0 +1,42 @@
+.wcu-section{
+    background-color: rgb(160, 205, 227);
+    height:100vh;
+}
+.wcu-section-head{
+    color: rgb(5, 29, 5);
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.wcu-section-para{
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 20px;
+}
+.wcu-section-card-image{
+    height: 80px;
+    width: 80px;
+    padding-top: 15px;
+}
+.wcu-section-card-head{
+    font-size: 20px;
+    padding-top: 15px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+.wcu-section-card{
+    text-align: center;
+    background-color: white;
+    padding: 12px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    height: 250px;
+}
+.wcu-section-card-para{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+.offers{
+    font-weight: 700;
+    font-style: italic;
+}

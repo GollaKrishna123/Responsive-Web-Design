@@ -1,0 +1,41 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-logo{
+    height: 50px;
+}
+.banner-section{
+    background-image: url('https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/01/Charcuterie_Darina-Kopcok.jpg?ssl=1');
+    height: 100vh;
+    background-size: cover;
+}
+.banner-section-head{
+    color: white;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.banner-section-para{
+    color: white;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+.banner-section-view-button{
+    background-color: rgb(171, 171, 22);
+    border-radius: 10px;
+    border-width: 0px;
+    width: 100px;
+    height: 30px;
+    color: white;
+}
+.banner-section-order-button{
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: 2px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    border-color: white;
+}
+.banner-section{
+    text-align: center;
+}

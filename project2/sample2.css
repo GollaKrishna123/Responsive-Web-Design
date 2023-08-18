@@ -1,0 +1,12 @@
+.box{
+    height: 80px;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+.box-text{
+    color: white;
+    font-size: 25px;
+}
+.color-palate-head{
+    text-align: center;
+}

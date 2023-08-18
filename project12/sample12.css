@@ -1,0 +1,23 @@
+.technology-container{
+    background-color: whitesmoke;
+}
+.technology-container-title{
+    padding-top: 55px;
+    padding-left: 25px;
+}
+.technology-container-card-title{
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 18px;
+}
+.technology-container-card-description{
+    font-size: 18px;
+}
+.technology-container-card-image{
+    width: 100px;
+    height: 100px;
+}
+.technology-container-card{
+    text-align: center;
+    padding: 80px;
+}

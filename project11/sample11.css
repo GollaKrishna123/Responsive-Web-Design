@@ -1,0 +1,29 @@
+.thanking-section{
+    background-color: rgb(231, 204, 140);
+}
+.thanking-section-title{
+    font-weight: 700;
+    font-size: 35px;
+    padding-top: 25px;
+
+}
+.thanking-section-details{
+    font-size: 20px;
+}
+.thanking-section-image{
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 28px;
+
+}
+.redeem-button{
+    background-color: rgb(182, 182, 29);
+    color: white;
+    border-width: 0px;
+    width: 120px;
+    font-size: 15px;
+    height: 38px;
+    border-radius: 5px;
+    margin-bottom: 38px;
+    margin-top: 28px;
+}

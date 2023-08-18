@@ -1,0 +1,13 @@
+.background-image{
+    background-image: url("https://t3.ftcdn.net/jpg/03/88/67/94/360_F_388679461_oURhTqt88wMo2Uo4met0sVR7ZAN3B0eq.jpg");
+    background-size: cover;
+    height: 20vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.background-heading{
+    /* color: white;
+    font-style: italic; */
+    /* text-align: center; */
+}

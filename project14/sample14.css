@@ -1,0 +1,23 @@
+.gifts-containers{
+    background-color: whitesmoke;
+}
+.optics-image{
+    padding-top: 28px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.optic-detials-description{
+    font-size: 23px;
+}
+.optic-detials-title{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.optic-detials-button{
+    color: white;
+    background-color: black;
+    width: 120px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}

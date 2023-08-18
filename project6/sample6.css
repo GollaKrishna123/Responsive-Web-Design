@@ -1,0 +1,27 @@
+.website-logo{
+    height: 50px;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.bg-container{
+    background-image: url('https://as2.ftcdn.net/v2/jpg/02/99/05/55/1000_F_299055504_tkApbRUzMYPrJIpthZTSEENxdWoHHr60.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.bg-container-head{
+    color: white;
+    font-size: 58px;
+    margin-bottom: 20px;
+}
+.bg-container-button{
+    background-color: blueviolet;
+    border-width: 0px;
+    color: white;
+    width:140px;
+    height: 40px;
+    border-radius: 5px;
+}
+.bg-container-description{
+    text-align: center;
+}
