@@ -1,0 +1,12 @@
+.colour-palatte-heading{
+    text-align: center;
+}
+.box-text{
+    color: white;
+    font-size: 18px;
+}
+.box{
+    height: 80px;
+    padding: 20px;
+    margin: 20px;
+}
